@@ -10,6 +10,3 @@ def simpson(bottom, top, span):
 def f(x):
         import math
         return math.sin((math.pi * x) / 3)
-    
-if __name__ == "__main__":
-        print(simpson(0, 3, 0.5))
