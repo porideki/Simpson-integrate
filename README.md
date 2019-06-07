@@ -1,4 +1,4 @@
-# Simpson-integrate
+# Simpson法を用いた定積分
 python code
 
 simpson(bottom, top, span)
